@@ -1,0 +1,40 @@
+h1,
+h2,
+body,
+ul,
+p{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+ body{
+    font-family: "Open Sans", sans-serif;
+    background-color: #f9fafc;
+ }
+ 
+ h1{
+    font-size: small;
+ }
+
+ .top-nav li{
+    list-style: none;
+ }
+
+ .top-nav a{
+    text-decoration: none;
+    color: #69696a;
+ }
+
+ .cta a{
+background-color: #000;
+color: #fff;
+text-decoration: none;
+padding: 5px 10px;
+border-radius: 5px;
+margin: auto;
+}
+
+
+ .footer-nav li{
+    list-style: none;
+ }
